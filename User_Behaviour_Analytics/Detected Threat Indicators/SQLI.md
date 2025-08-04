@@ -17,7 +17,7 @@ Scenarios to Check for SQL Injection:
 
 1. Check the users or user who has committed the most SQL injection attempts and which webpath was most targeted
 
-![Dashboard Screenshot](Images/SQLI/SQL1.png)
+![Dashboard Screenshot](Images/SQL/SQL1.png)
 
 c
 
