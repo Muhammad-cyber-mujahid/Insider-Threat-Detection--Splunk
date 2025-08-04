@@ -17,9 +17,9 @@ Scenarios to Check for SQL Injection:
 
 1. Check the users or user who has committed the most SQL injection attempts and which webpath was most targeted
 
-![Dashboard Screenshot](Images/sqli/SQL1.png)
+![Dashboard Screenshot](Images/SQLI/SQL1.png)
 
-changes made o
+c
 
 2. Which ip_address initiated the most SQL injection attempts with status=failure, and what is the total count of such attempts per ip_address?
 
