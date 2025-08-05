@@ -19,7 +19,6 @@ Scenarios to Check for SQL Injection:
 
 ![Dashboard Screenshot](Images/SQL/SQL1.png)
 
-c
 
 2. Which ip_address initiated the most SQL injection attempts with status=failure, and what is the total count of such attempts per ip_address?
 
