@@ -1,6 +1,7 @@
 Insider Threat Detection with Splunk
 
 Overview
+
 This project uses Splunk to detect insider threats in a fictional company, Nexlify Solutions, by analyzing user activity logs. The dataset, user_activity_nexlify.json, has 7000–8000 events, including 2100–3200 malicious ones like brute force, phishing, SQL injection, and unauthorized device use. It’s designed to help SOC analysts practice spotting threats and documenting findings.
 
 Goals
