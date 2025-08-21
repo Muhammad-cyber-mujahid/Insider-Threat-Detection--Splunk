@@ -11,6 +11,7 @@ Goals
 - Simulate a real-world scenario to build threat-hunting skills.
 
 Real-World Scenario
+
 Nexlify Solutions noticed sensitive data leaks and odd login attempts, suspecting insider threats from employees or hacked accounts. For example, an employee made repeated login attempts from outside the company network. This project uses Splunk to analyze logs, catch these threats, and help the company secure its data.
 
 Steps
