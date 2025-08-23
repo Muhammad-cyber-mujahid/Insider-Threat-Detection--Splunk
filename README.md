@@ -25,9 +25,9 @@ Steps
 8. Compile a final report with insights and recommendations.
 
 Requirements
-- Splunk Cloud (free trial works) for log analysis.
+- Splunk Cloudfor log analysis.
 - Python 3.13 to run the log generation script.
 - VS Code for editing/running the script.
-- user_activity_nexlify.json (7–10 MB) with fields like user, action, ip_address.
+- user_activity_nexlify.json (7–10 MB) 
 - GitHub repo for storing scripts, docs, and screenshots.
 
