@@ -21,7 +21,7 @@ Steps
 4. Run queries to find malicious activities 
 5. Create dashboards to visualize threats 
 6. Document findings for each threat type in with queries and screenshots
-7. Save results and visuals in screenshots/ and update GitHub repo.
+7. Save results and images in screenshots/ and update GitHub repo.
 8. Compile a final report with insights and recommendations.
 
 Requirements
