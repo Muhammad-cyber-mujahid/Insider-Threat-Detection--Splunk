@@ -17,7 +17,7 @@ Nexlify Solutions noticed sensitive data leaks and odd login attempts, suspectin
 Steps
 1. Generate logs using a Python script (user_behaviour_nexlify_logs.py) to create user_activity_nexlify.json
 2. Upload the JSON file to Splunk Cloud with "_json" source type into "user_activity_index"
-3. Check data in Splunk with index=user_activity_index | stats count (7000–8000 events)
+3. Check and ensure data has been injected correctly in Splunk
 4. Run queries to find malicious activities 
 5. Create dashboards to visualize threats 
 6. Document findings for each threat type in with queries and screenshots
